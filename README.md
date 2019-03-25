@@ -16,10 +16,7 @@ Jednoduchá aplikace pro počasí na android.
 1.Android OS  
 2.Povolené instalace z neznámých zdrojů.
 
-## [AUTHOR/AUTOR]
-Štěpán Drozdek
-
-##[BUGS/CHYBY]
+## [BUGS/CHYBY]
 
 Api from which I'm getting weather information, sometime doesn't have data for specific longitude and latitude 
 (which is provided from google maps api), so they send information for Shuzenji (town in Japan).
@@ -32,3 +29,6 @@ Děje se to proto, že FCC Weather Api a Google Maps mají města uložená pod 
 A Shouzenji je (pravděpodobně) místo jehož data jsou posílána, když nemají na dotaz odpověď.
 Avšak někdy pomůže dotaz poslat opakovaně. 
 Souřadnice jsou správné - google vloží marker na určené místo, ale data z FCC Weather neodpovídají.
+
+## [AUTHOR/AUTOR]
+Štěpán Drozdek
