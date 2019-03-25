@@ -11,7 +11,7 @@ Jednoduchá aplikace pro počasí na android.
 ## [REQUIRIMENTS/POŽADAVKY]
 
 1.Android OS  
-2.Enabled installing application from unknown sources/Povolené instalace z neznámých zdrojů.
+2.Enabled installing application from unknown sources.
 
 1.Android OS  
 2.Povolené instalace z neznámých zdrojů.
